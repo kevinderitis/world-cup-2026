@@ -1,0 +1,20 @@
+{
+  "name": "World Cup Path",
+  "short_name": "WC Path",
+  "description": "Your complete 2026 World Cup companion. Follow your team, track standings, explore scenarios, and predict the winner.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f1923",
+  "theme_color": "#0f1923",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["sports", "entertainment"],
+  "lang": "en"
+}
